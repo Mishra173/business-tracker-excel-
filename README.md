@@ -1,4 +1,4 @@
-Business Performance Tracker – Excel
+ Business Performance Tracker – Excel
 
 Objective
 Track and summarize business performance with Excel dashboards for easy reporting.
