@@ -14,6 +14,7 @@ Tools Used
 
 Dashboard Preview
 (See screenshot below 👇)
+Dashboard Screenshot [Link : <img width="1313" height="456" alt="dashboard" src="https://github.com/user-attachments/assets/f8c167e7-d08b-4985-bddd-0bf5968d6c77" /> ]
 
 ## 📚 What I Learned
 - Cleaning data in Excel
