@@ -1,23 +1,21 @@
- Business Performance Tracker – Excel
+Business Performance Tracker Dashboard
 
-Objective
-Track and summarize business performance with Excel dashboards for easy reporting.
+This project analyzes business performance using Excel.
+
+ Features
+- Monthly Sales Trend
+- Sales by Product Category
+- Price Trend Analysis
+- Sales by Gender & Age
+- KPIs (Total Sales, Total Quantity)
 
 Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Formulas)
+- Microsoft Excel (Pivot Tables, Slicers, Charts)
 
- Steps Performed
-1. Imported multi-sheet business data
-2. Cleaned and structured the data
-3. Created pivot tables and charts to summarize performance
-4. Built simple dashboard highlighting trends and KPIs
+Dashboard Preview
+(See screenshot below 👇)
 
- Key Insights
-- Monitored expenses and revenue trends
-- Identified areas needing attention
-- Created a reusable template for regular reporting
-
- Files
-- `business_tracker.xlsx` (Excel dashboard)
-- `images/` (screenshots)
-
+## 📚 What I Learned
+- Cleaning data in Excel
+- Building KPI dashboards
+- Using slicers for interactive reports
